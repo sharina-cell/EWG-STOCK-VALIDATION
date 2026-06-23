@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+uploads/
+outputs/
+*.xlsx
+!sample_data/*.xlsx
+.DS_Store
+.streamlit/secrets.toml
